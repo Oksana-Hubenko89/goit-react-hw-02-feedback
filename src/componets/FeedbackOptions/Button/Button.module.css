@@ -1,0 +1,8 @@
+.Button{
+    border:1mm solid indianred;
+    background-color: khaki;
+    color:maroon;
+    padding:10px 20px;
+    font-size: large;
+    margin: 30px;
+}

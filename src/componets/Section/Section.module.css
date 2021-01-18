@@ -1,0 +1,16 @@
+.Section{
+    align-items: center;
+    background-color: hotpink;
+    border:1mm solid green;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.Title{
+    text-transform: uppercase;
+    color: mediumslateblue;
+    text-align: center;
+    font-size: larger;
+}

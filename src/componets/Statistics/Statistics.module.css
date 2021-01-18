@@ -1,0 +1,7 @@
+.List{
+    text-transform:capitalize;
+    list-style-type: none;
+}
+.Item{
+    margin: 10px;
+}
