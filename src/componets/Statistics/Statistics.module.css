@@ -3,5 +3,8 @@
     list-style-type: none;
 }
 .Item{
-    margin: 10px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 30px;
+     margin: 10px;
 }

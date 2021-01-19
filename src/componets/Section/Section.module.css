@@ -12,5 +12,6 @@
     text-transform: uppercase;
     color: mediumslateblue;
     text-align: center;
-    font-size: larger;
+    font-weight: bolder;
+    font-size: 30px;
 }
