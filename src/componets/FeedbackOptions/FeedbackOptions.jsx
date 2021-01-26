@@ -2,12 +2,10 @@ import React from 'react';
 import b from './Button/Button.module.css';
 import s from './FeedbackOptions.module.css';
 
-
-
-
 function FeedbackOptions({ options, onLeaveFeedback,countTotalFeedback } ) {
     
     return (
+
         <div className={s.Container}>
         
             {options.map(option =>
@@ -18,7 +16,6 @@ function FeedbackOptions({ options, onLeaveFeedback,countTotalFeedback } ) {
         </div>
 
         )
-}
-    
+}    
 
 export default FeedbackOptions;
